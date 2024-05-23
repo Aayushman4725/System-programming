@@ -1,0 +1,4 @@
+name: Aayushman
+ address: Lalitpur 
+ roll:8 
+ marks:60
